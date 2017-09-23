@@ -1,5 +1,8 @@
 # WordPress
 Bulk Wordpress Code
 
-List
-* Bulk Delete Terms
+File List
+* Bulk Delete Taxonomy Terms
+* Bulk Delete Woocommerce Terms
+* Delete product with attachments file
+* Delete attachments from custom list 
